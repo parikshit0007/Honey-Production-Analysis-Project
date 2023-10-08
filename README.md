@@ -17,7 +17,7 @@ Analyzed the Honey Production in the USA dataset to visualize trends in honey pr
 7)Significant production trends in states like California and North Dakota.
 8)Decline in the number of honey-producing colonies before 2006.
 
-     **Visualization:**  Utilized Seaborn and Matplotlib for data visualization and customization.
+**Visualization:**  Utilized Seaborn and Matplotlib for data visualization and customization.
 
 Technologies Used: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 Project Link: Honey Production Analysis
